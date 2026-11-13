@@ -21,8 +21,7 @@ void student_BI_BI_HAJIRA() {
 }
 
 void student_C_S_GAGANA() {
-    printf("C S GAGANA is present\n");
-    printf("260646\n");
+    printf("C S GAGANA is absent\n");
 }
 
 void student_DHEERAJ_G_M() {
@@ -38,7 +37,7 @@ void student_AYUSH_G_M() {
 }
 
 void student_AHMED_RAZA() {
-    printf("AHMED RAZA is present\n");
+    printf("AHMED RAZA is absent\n");
 }
 
 void student_SYEDA_ROZATH_BANU() {
@@ -46,11 +45,11 @@ void student_SYEDA_ROZATH_BANU() {
 }
 
 void student_AMRUTH_N_V() {
-    printf("AMRUTH N V is present\n");
+    printf("AMRUTH N V is absent\n");
 }
 
 void student_BHARATH_G_V() {
-    printf("BHARATH G V is present\n");
+    printf("BHARATH G V is absent\n");
 }
 
 void student_POOJA_S_G() {
@@ -62,7 +61,9 @@ void student_A_S_KAVERI() {
 }
 
 void student_ABHINAVI_H_R() {
-    printf("ABHINAVI H R is absent\n");
+    printf("NAME : ABHINAVI H R
+        USN : 4JN25CS002
+        BRANCH : CSE\n");
 }
 
 void student_ADITHI_S_SHET() {
@@ -70,8 +71,7 @@ void student_ADITHI_S_SHET() {
 }
 
 void student_ADITHYA_S() {
-    printf("ADITHYA S is present\n");
-    printf("4JN25CS005");
+    printf("ADITHYA S is absent\n");
 }
 
 void student_ADITI_D_U() {
@@ -115,7 +115,7 @@ void student_AMULYA_S_M() {
 }
 
 void student_ANAND_SADASHIV_ANK() {
-    printf("ANAND SADASHIV ANK is present\n4JN25CS015");
+    printf("ANAND SADASHIV ANK is absent\n");
 }
 
 void student_ANKITA_SHARMA() {
@@ -127,9 +127,8 @@ void student_ANNAPURNA_S() {
 }
 
 void student_ANUSH_G_S() {
-    printf("ANUSH G S is present\n");
-    printf("4JN25CS018\n");}
-    printf("Holla amigo\n");
+    printf("ANUSH G S is absent\n");
+}
 
 void student_ANUSHA_RAMAPPA_LA() {
     printf("ANUSHA RAMAPPA LA is absent\n");
@@ -168,8 +167,7 @@ void student_B_M_S_PRAJWAL() {
 }
 
 void student_B_M_THANUSH_SHETTY() {
-    printf("B M THANUSH SHETTY is present\n");
-    printf("4JN25CS028\n");
+    printf("B M THANUSH SHETTY is absent\n");
 }
 
 void student_BHAGYASHREE() {
@@ -217,12 +215,11 @@ void student_BRUNDA_G() {
 }
 
 void student_CHAITANYA_R_B() {
-    printf("CHAITANYA_R_B is present\n");
-    printf("4JN25CS040\n");
+    printf("CHAITANYA R B is absent\n");
 }
 
 void student_CHANDAN_C() {
-    printf("CHANDAN C is present\n4JN25CS041");
+    printf("CHANDAN C is absent\n");
 }
 
 void student_CHANDANA_K_P() {
@@ -250,12 +247,11 @@ void student_CHAYADEVI_G_R() {
 }
 
 void student_CHETAN() {
-    printf("CHETAN is present\n4JN25CS049");
+    printf("CHETAN is absent\n");
 }
 
 void student_CHETHAN_KUMAR_S_G() {
-    printf("CHETHAN KUMAR S G is present\n");
-    printf("4JN25CS050");
+    printf("CHETHAN KUMAR S G is absent\n");
 }
 
 void student_CHINMAI_H_A() {
@@ -263,7 +259,7 @@ void student_CHINMAI_H_A() {
 }
 
 void student_CHINMAY_HEGDE_B_C() {
-    printf("CHINMAY HEGDE B C is present\n4JN25CS052");
+    printf("CHINMAY HEGDE B C is absent\n");
 }
 
 void student_CHINMAYEE_A_V() {
@@ -275,13 +271,11 @@ void student_CHINMAYI_N() {
 }
 
 void student_CHIRAG_P() {
-    printf("CHIRAG P is present\n");
-    printf("4JN25CS055");
+    printf("CHIRAG P is absent\n");
 }
 
 void student_DARSHAN_L_S() {
-    printf("DARSHAN L S is present\n");
-    prinft("4JN25CS056");
+    printf("DARSHAN L S is absent\n");
 }
 
 void student_DASHAMI_D_M() {
@@ -294,6 +288,7 @@ void student_PREETHAM_P() {
 
 int main() {
     printf("========== CLASS STUDENT DETAILS ==========\n\n");
+
     student_CHETAN_C();
     student_CHINMAY_V();
     student_HARSHITHA_T_N();
