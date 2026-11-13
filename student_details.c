@@ -62,7 +62,7 @@ void student_A_S_KAVERI() {
 }
 
 void student_ABHINAVI_H_R() {
-    printf("ABHINAVI H R is absent\n");
+    printf("ABHINAVI H R\n");
 }
 
 void student_ADITHI_S_SHET() {
